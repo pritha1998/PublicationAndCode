@@ -1,1 +1,5 @@
-# PublicationAndCode
+# Attention-enabled Convolutional Autoencoder with Optimal Threshold to Detect Image Anomaly for Industrial Quality Assurance
+
+Abstract—The process of automatically finding and localizing the available anomalies (or defects) in the images of the products is known as Image Anomaly Detection (IAD). In this paper, an attention-enabled convolutional autoencoder has been proposed to detect industrial defects using images of the products. The proposed model uses image-wise defect detection. The model classifies each test image as either defective or defectfree based on the magnitude of its reconstruction error. The Structural Similarity Index Measure (SSIM) is employed to assess image quality by quantifying the reconstruction error. SSIM goes beyond comparing individual pixel values and analyzes the inter-relationships between local image regions. This incorporates luminance, contrast, and structural information, providing a more comprehensive evaluation aligned with human visual perception. Comparative result analysis and ablation study validate the superiority of the proposed model.
+
+Link to Read the article: https://lnkd.in/gEGHFksE
